@@ -35,7 +35,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Documentation
+            Hello Vivian!
           </a>
         </div>
       </main>
