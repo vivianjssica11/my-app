@@ -14,7 +14,7 @@ export default function Users() {
         </div>
         <div className="flex gap-4 mt-4">
           <img
-            src={"/avatar-2.avif"}
+            src={"/img 1.jpg"}
             className="rounded-full w-12 h-12 bg-cover"
           />
           <div className="flex flex-col justify-center items-start font-bold">
